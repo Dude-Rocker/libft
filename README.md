@@ -2,8 +2,7 @@
 # The first and main project of the school 42
 
 ## Here are implemented such functions
-### Libc functions:
-#### These functions are analogous to libc functions
+### Libc functions (these functions are analogous to libc functions):
 
 * ft_memset
 * ft_bzero
@@ -69,6 +68,8 @@
 * ft_lstadd
 * ft_lstiter
 * ft_lstmap
+
+### Their bonus functions:
 
 * ft_printf (taken from a separate project)
 * get_next_line (taken from a separate project)
