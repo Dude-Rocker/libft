@@ -1,9 +1,9 @@
-# libft project of school 42 (include get_next_line and ft_printf)
-## These functions are analogous to libc functions
+# libft (include get_next_line and ft_printf)
+# The first and main project of the school 42
 
 ## Here are implemented such functions
-
 ### Libc functions:
+#### These functions are analogous to libc functions
 
 * ft_memset
 * ft_bzero
