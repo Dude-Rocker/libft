@@ -1,4 +1,4 @@
-# [libft](https://github.com/Dude-Rocker/resources/blob/master/libft.pdf) (include [get_next_line](https://github.com/Dude-Rocker/resources/blob/master/get_next_line.pdf) and [ft_printf](https://github.com/Dude-Rocker/ft_printf))
+# [libft](https://github.com/Dude-Rocker/resources/blob/master/pdf-s/libft.pdf) (include [get_next_line](https://github.com/Dude-Rocker/resources/blob/master/pdf-s/get_next_line.pdf) and [ft_printf](https://github.com/Dude-Rocker/ft_printf))
 # The first and main project of the school 42
 
 ## Here are implemented such functions
